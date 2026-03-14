@@ -38,3 +38,5 @@ build/
 
 # configuración local
 local.properties
+
+.env
